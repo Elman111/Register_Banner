@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    font-size: 60px;
+}
+.top{
+    padding-top: 160px;
+    margin-left: 350px;
+}
+body{
+    background-color: rgb(139, 61, 8);
+}
+.main{
+    margin-top: 155px;
+    height: 427px;
+    background-color: rgb(231, 185, 125);
+}
+.links{
+    margin-left: 450px;
+}
+a{
+    color: rgb(3, 87, 3);
+    text-decoration: none;
+    margin-left: 30px;
+    font-size: 24px;
+}
+h2{
+    font-size: 42px;
+}
+p{
+    font-size: 28px;
+    margin-top: 20px;
+}
+.brownp{
+    color: rgb(139, 61, 8);
+    margin-top: 20px;
+} 
